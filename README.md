@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel, a software engineering student.👋
+## Hi, I'm Gabriel, a software engineering student👋
 
 
 <div style="display: inline_block"><br>
